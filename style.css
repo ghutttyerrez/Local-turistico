@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ 
+}
+
+:root {
+  font-family: 'Open Sans', sans-serif, bold;
+}
+
+#page {
+  width: 1120px;
+  height: 100%;
+  padding: 84px 80px;
+}
